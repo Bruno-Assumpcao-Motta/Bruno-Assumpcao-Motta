@@ -3,8 +3,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Assumpcao-Motta&show_icons=true&theme=algolia)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Assumpcao-Motta&show_icons=true&theme=algolia)](https://github.com/Bruno-Assumpcao-Motta/github-readme-stats)  <br>
 
 
